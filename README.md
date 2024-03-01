@@ -28,7 +28,7 @@ Speaking Score Input: The program collects the speaking score from the user.
 
 Writing Score Input: Finally, the user is prompted to provide their writing score.
 
-![demo2](../IELTSAvarageScoreCalculator1/assets/inputuser.png)
+![demo2](../IELTSAvarageScoreCalculator1/assets/image.png)
 
 # 2. Converting all data to decimal type
 Reading Score: The readingScoreInput is converted to a decimal and added to the scores array.
